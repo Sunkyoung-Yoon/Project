@@ -22,6 +22,7 @@
 		<div class="container">
 			<h1 class="display-3">
 				<%=greeting %>
+				추가했다.
 			</h1>
 		</div>
 	</div>
